@@ -22,6 +22,7 @@
     "ckeditor5": "^43.2.0",
     "ckeditor5-premium-features": "^43.2.0",
     "dayjs": "^1.11.13",
+    "express": "^4.21.2",
     "fe-vite": "file:",
     "html-react-parser": "^5.1.17",
     "html2canvas": "^1.4.1",
