@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-$server config
+#server config
 .env
 server.js
 package-lock.json
